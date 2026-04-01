@@ -6,13 +6,13 @@ A Python-based simulator for various CPU scheduling algorithms, including FCFS, 
 - **FCFS**: First-Come, First-Served
 - **SJF**: Shortest Job First
 - **RR**: Round Robin
-- **MLFQ**: Multilevel Feedback Queue (Queue 1: Q=2, Queue 2: Q=4, Queue 3: FCFS)
+- **MLFQ**: Multilevel Feedback Queue
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rysopanha234-cpu/OS-CPU-Scheduling-Team8.git](https://github.com/rysopanha234-cpu/OS-CPU-Scheduling-Team8.git)
+   git clone `https://github.com/rysopanha234-cpu/OS-CPU-Scheduling-Team8.git`
    cd OS-CPU-Scheduling-Team8
 
 2. `pip install matplotlib`
