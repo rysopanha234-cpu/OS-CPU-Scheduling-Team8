@@ -36,11 +36,11 @@ if __name__ == "__main__":
     if processes:
         while True:
             print("\nSelect an Algorithm to Run:")
-            print("1. FCFS (First Come, First Served) - Member A")
-            print("2. SJF (Shortest Job First) - Member A")
-            print("3. SRT (Shortest Remaining Time) - Member B")
-            print("4. RR (Round Robin) - Member B")
-            print("5. MLFQ (Multilevel Feedback Queue) - Member C")
+            print("1. FCFS (First Come, First Served)")
+            print("2. SJF (Shortest Job First)")
+            print("3. SRT (Shortest Remaining Time)")
+            print("4. RR (Round Robin)")
+            print("5. MLFQ (Multilevel Feedback Queue)")
             print("6. Exit")
             
             choice = input("\nEnter choice (1-6): ")
